@@ -185,5 +185,5 @@ This project is for educational purposes.
 
 ---
 
-<p align="center">Tushar Solanki — Aeterna Nexus - Watch-store</p>
+<p align="center">Tushar Solanki — Aeterna Nexus - Watch-Store</p>
 
